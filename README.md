@@ -33,7 +33,9 @@ Berikut tampilan output membuat dua buah objek dalam Class Person
 ![gambar](screenshoot/gambar5.png)
 
 TEKNIK INFORMATIKA
+
 UNIVERSITAS PELITA BANGSA
+
 2022
 
 ================= TERIMAKSIH ======================================
